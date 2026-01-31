@@ -1,3 +1,10 @@
+//go:build ignore
+
+// To run vitess comparison benchmarks:
+// 1. Uncomment the vitess require in go.mod
+// 2. Change build tag above to: //go:build compare_vitess
+// 3. Run: go test -tags=compare_vitess -bench=Compare
+
 package machparse
 
 import (
