@@ -1,0 +1,15 @@
+# Binaries
+*.test
+*.exe
+
+# Profiling
+*.prof
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local settings
+.claude/
