@@ -1,5 +1,8 @@
 # machparse
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/freeeve/machparse.svg)](https://pkg.go.dev/github.com/freeeve/machparse)
+[![Snyk Vulnerabilities](https://snyk.io/test/github/freeeve/machparse/badge.svg)](https://snyk.io/test/github/freeeve/machparse)
+
 A high-performance SQL parser for Go. Parses MySQL, PostgreSQL, and SQLite syntax.
 
 ## Features
